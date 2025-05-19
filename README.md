@@ -2,6 +2,9 @@
 
 A powerful and intuitive mobile application for **real-time plant disease detection**, leveraging a **custom 2D CNN model** integrated into a **Flask backend** and a modern **React Native frontend** (iOS only). Designed to assist farmers, researchers, and agricultural experts with accurate diagnosis through a simple mobile interface.
 
+> 🧑‍🎓 **Note**: This project was developed as part of my **Undergraduate Major Project**.  
+> For a detailed explanation, methodology, and results, please refer to the full report in [`Project_Report.pdf`](./Project_Report.pdf).
+
 ---
 
 ## 🚀 Project Overview
