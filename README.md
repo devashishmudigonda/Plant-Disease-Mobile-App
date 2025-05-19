@@ -144,20 +144,20 @@ Pull requests and issues are welcome! Please open an issue to discuss changes be
 Below are key outputs and visual results from the project:
 
 ### 📱 Mobile App Output
-![Mobile Output](demo/mobile_output.png)
+![Mobile Output](images/mobile_output.png)
 
 ### 📊 Confusion Matrix
-![Confusion Matrix](demo/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
 
 ### 📉 Training Loss Graph
-![Loss Graph](demo/loss_graph.png)
+![Loss Graph](images/loss_graph.png)
 
 
 ### 🧪 Notebook Inference Output
-![Notebook Output](demo/notebook_output.png)
+![Notebook Output](images/notebook_output.png)
 
 ### 🌿 Severity Estimation Calculation
-![Severity Calculation](demo/severity_calc.png)
+![Severity Calculation](images/severity_calc.png)
 
 ---
 
