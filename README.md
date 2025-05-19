@@ -14,6 +14,17 @@ A powerful and intuitive mobile application for **real-time plant disease detect
 
 ---
 
+## 🗂️ Dataset Used
+
+We use the **PlantVillage** dataset, which contains thousands of annotated leaf images across multiple crops and diseases.
+
+📎 **Download Dataset:**  
+🔗 [https://data.mendeley.com/datasets/tywbtsjrjv/1](https://data.mendeley.com/datasets/tywbtsjrjv/1)
+
+Make sure to preprocess the dataset as required for training before using it in the model pipeline.
+
+---
+
 ## 🧾 Clone the Project
 
 ```bash
